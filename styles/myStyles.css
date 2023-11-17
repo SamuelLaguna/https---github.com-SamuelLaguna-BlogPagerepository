@@ -1,0 +1,161 @@
+.cen{
+  
+   
+   text-align: center;
+}
+
+.hcolor{
+    color: blanchedalmond;
+}
+
+
+
+.av{
+    vertical-align: middle;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    justify-content: flex-end;
+}
+
+
+body{
+    background-color: wheat;
+}
+
+.recp{
+
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.ran{
+    color: gray;
+    border-radius: 5px;
+}
+.mb-6 {
+    margin-bottom: 4.5rem !important;
+  }
+  .mb-7 {
+    margin-bottom: 6rem !important;
+  }
+  .mb-8 {
+    margin-bottom: 7.5rem !important;
+  }
+  .mb-9 {
+    margin-bottom: 9rem !important;
+  }
+  .mb-10 {
+    margin-bottom: 10.5rem !important;
+  }
+  .py-6 {
+    padding-top: 4.5rem !important;
+    padding-bottom: 4.5rem !important;
+  }
+  .py-7 {
+    padding-top: 6rem !important;
+    padding-bottom: 6rem !important;
+  }
+  .py-8 {
+    padding-top: 7.5rem !important;
+    padding-bottom: 7.5rem !important;
+  }
+  .py-9 {
+    padding-top: 9rem !important;
+    padding-bottom: 9rem !important;
+  }
+  .py-10 {
+    padding-top: 10.5rem !important;
+    padding-bottom: 10.5rem !important;
+  }
+  .hcf-bp-center {
+    background-position: center !important;
+  }
+  .hcf-bs-cover {
+    background-size: cover !important;
+  }
+  @media (min-width: 576px) {
+    .mb-sm-6 {
+      margin-bottom: 4.5rem !important;
+    }
+    .mb-sm-7 {
+      margin-bottom: 6rem !important;
+    }
+    .mb-sm-8 {
+      margin-bottom: 7.5rem !important;
+    }
+    .mb-sm-9 {
+      margin-bottom: 9rem !important;
+    }
+    .mb-sm-10 {
+      margin-bottom: 10.5rem !important;
+    }
+    .py-sm-6 {
+      padding-top: 4.5rem !important;
+      padding-bottom: 4.5rem !important;
+    }
+    .py-sm-7 {
+      padding-top: 6rem !important;
+      padding-bottom: 6rem !important;
+    }
+    .py-sm-8 {
+      padding-top: 7.5rem !important;
+      padding-bottom: 7.5rem !important;
+    }
+    .py-sm-9 {
+      padding-top: 9rem !important;
+      padding-bottom: 9rem !important;
+    }
+    .py-sm-10 {
+      padding-top: 10.5rem !important;
+      padding-bottom: 10.5rem !important;
+    }
+  }
+  @media (min-width: 768px) {
+    .mb-md-6 {
+      margin-bottom: 4.5rem !important;
+    }
+    .mb-md-7 {
+      margin-bottom: 6rem !important;
+    }
+    .mb-md-8 {
+      margin-bottom: 7.5rem !important;
+    }
+    .mb-md-9 {
+      margin-bottom: 9rem !important;
+    } 
+    .mb-md-10 {
+      margin-bottom: 10.5rem !important;
+    }
+  }
+
+
+
+  .board{
+    outline: 1px solid grey;
+    
+  }
+
+
+  /* .icolor{
+    background-color: red;
+    
+  } */
+
+  .carousel {
+    margin-bottom: 4rem;
+    margin-top: 25px;
+    background-color: transparent;
+  }
+  
+  /* Declare heights because of positioning of img element */
+  .carousel-item {
+    height: 26rem;
+    border-radius: 25px;
+    background-color: transparent;
+  }
+
+  .imgResize{
+    height: 300px;
+    width: 1400;
+  }
